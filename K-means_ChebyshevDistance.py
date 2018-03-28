@@ -5,7 +5,7 @@ import copy
 import matplotlib.pyplot as plt
 
 # 1. Data Import
-Customer = pd.read_csv('/Users/alex/Desktop/CustomerClustering.csv')
+Customer = pd.read_csv('Clustering.csv')
 Customer.head(n=5)
 Customer.shape  # 5 variables and 60 rows
 v1 = Customer['Visit.Time'].values  # variable 1
@@ -97,7 +97,7 @@ while error != 0:  # if error = 0, means that all the centroids are the same as 
 
 
 # 6. Analyze the Outcome
-Customer = pd.read_csv('/Users/alex/Desktop/CustomerClustering.csv')
+Customer = pd.read_csv('Clustering.csv')
 Type0 = Customer[clusters == 0].drop('ID', 1)  # Here we delete column 'ID' since it can't offer any information
 Type1 = Customer[clusters == 1].drop('ID', 1)
 Type2 = Customer[clusters == 2].drop('ID', 1)
