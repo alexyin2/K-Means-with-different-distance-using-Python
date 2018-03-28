@@ -5,7 +5,7 @@ import copy
 import matplotlib.pyplot as plt
 
 # 1. Data Import
-Customer = pd.read_csv('/Users/alex/Desktop/CustomerClustering.csv')
+Customer = pd.read_csv('CustomerClustering.csv')
 Customer.head(n=5)
 Customer.shape  # 5 variables and 60 rows
 v1 = Customer['Visit.Time'].values  # variable 1
