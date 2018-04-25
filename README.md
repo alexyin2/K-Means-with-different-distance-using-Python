@@ -15,7 +15,7 @@
 * I've also done some data visualization at the beggining and look at the clusters I've generated.
 
 * **Improvements for this repository**:
-  - Data visualization should be clearer for showing the cluster outcome
+  - Data visualization should be clearer for showing the cluster outcome
   - Better introduction of the distance defined by myself
   - The way of choosing the first centroids can be improved
   
