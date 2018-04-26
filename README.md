@@ -1,6 +1,6 @@
 # Learning K-means in Python without using sklearn
 
-### Warning:
+## Warning:
     - The code still has some problem when running the loop.
     - It sometimes will have a RunTimeError, but it doesn't effect the outcome I guess.
 
