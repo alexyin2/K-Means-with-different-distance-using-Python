@@ -1,9 +1,8 @@
 # Learning K-means in Python without using sklearn
 
 ### Warning:
-    - The code still has some problem when running the loop.
+    - The code still has some problem when running the loop.
     - It sometimes will have a RunTimeError, but it doesn't effect the outcome I guess.
-
 
 * I'm using Python to define different distance and run K-Means without using packages since it helps a lot in understanding the mathematics behind.
 
