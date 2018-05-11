@@ -34,7 +34,7 @@ This means that we will have to work hard on how we describe our data and how we
 How should we do to solve this problem? There's no real answer for this question and I'll say that it all based on different situations.
 6. Is ordinal data suitable for running kmeans?  
 The answer is not certain, but the professor gives his reason of why not putting ordinal data in kmeans model.  
-It's because there's still no distance that deals well both on numerical and ordinal datas.  
+It's because there's still no distance that deals well both on numerical and ordinal datas.  
 The professor also suggested some actions that may be used when facing such situation.  
 First of all, we can just change all the numerical data into ordinal, but is this really meaningful and effective?  
 Second, we may use our domain knowledge to change ordinal data into numerical data.  
