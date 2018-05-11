@@ -41,5 +41,5 @@ First of all, we can just change all the numerical data into ordinal, but is thi
 Second, we may use our domain knowledge to change ordinal data into numerical data.  
 For example, perhaps our data has 4 levels in performing on tests: worse, bad, normal, good.  
 Maybe we can turn them into numbers like: 30, 60, 75, 90. 
-7. In kmeans, outlier may be a issue different from doing machine learning.
+7. In kmeans, outlier may be a issue different from doing machine learning.  
 It's because that outliers may be a subclass in kmeans.
