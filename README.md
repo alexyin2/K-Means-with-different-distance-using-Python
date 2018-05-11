@@ -28,10 +28,11 @@
 2. Canberra distance: Instead of Euclidean Distance, this method is often used in our project.  
 I should need to know the mathematics and which domain it fits on.
 3. Naming the clusters: It's a theory of naming the clusters after we've run kmeans. [Reference](http://www.d.umn.edu/~tpederse/Pubs/cicling2005.pdf)
-4. When introductin your project to others, we should avoid the action of going to the last page of our powerpoint of pdf.  
+4. When introductin your project to others, we should avoid the action of going to the former page of our powerpoint or pdf.  
 This means that we will have to work hard on how we describe our data and how we perform informations of our outcome, such as visualizing or naming.
 5. What effect will highly correlated variables impact on running kmeans?  
-How should we do to solve this problem? There's no real answer for this question and I'll say that it all based on different situations.
+How should we do to solve this problem?  
+There's no real answer for this question and I'll say that it all based on different situations.
 6. Is ordinal data suitable for running kmeans?  
 The answer is not certain, but the professor gives his reason of why not putting ordinal data in kmeans model.  
 It's because there's still no distance that deals well both on numerical and ordinal datas.  
