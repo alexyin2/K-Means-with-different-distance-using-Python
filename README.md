@@ -21,8 +21,9 @@
   
 ## New ideas about Kmeans
 * I've participated in a class, named Learning from Data, in NCCU, and we've disgussed about the issues or problems we may met in running K means.
-* I really recommend participating in one of the classes teached by Chang, Yuan-chin Ivan. He's an inspiring and enlightening professor.
-* I'll post some of my notes here.  
+* The class was taught by  Chang, Yuan-chin Ivan and I really recommend participating in one of the classes teached by him.  
+He's an inspiring and enlightening professor that encourages students to think and discuss about the questions.
+* Besides, I'll post some of my notes in class here and feel free to rewrite if anything is wrong.  
 
 1. Silhouette method: I should need to know the mathematics about how this works on deciding k.
 2. Canberra distance: Instead of Euclidean Distance, this method is often used in our project.  
